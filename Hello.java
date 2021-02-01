@@ -5,6 +5,6 @@ public class Hello
         System.out.println("Apply some changes to check webhook works");
         System.out.println("Again Apply some changes to check webhook works");
         System.out.println("some changes to check webhook works");
-         System.out.println("Todays changes to check webhook works");
+         System.out.println("Today changes to check webhook works");
     }
 }
